@@ -7,7 +7,7 @@
 
 * 📂️ Front-End Developer | Competitive Programmer | Blockchain Developer
 
-<div style="text-align="center"">
+<div style="text-align=center; border=2px solid red;">
   <h4><a href="https://www.linkedin.com/in/abhishek-kumar-426694190/">Linkedin</a></h4>
   <i class="fab fa-linkedin"></i>
 </div>
