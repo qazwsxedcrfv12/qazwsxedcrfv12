@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar (aka - Abhi)</h1>
-<h3 align="center">Tech enthusiastic and motivated developer having good knowledge proficiency in Front-End Development as well as i am a competitive programmer having good problem solving skills. And currently exploring BLockchain Development.</h3>
+<h2 align="left">Hi 👋, I'm Abhishek Kumar</h2>
+<h3 align="left">💻️  Tech enthusiastic and motivated developer having good knowledge proficiency in Front-End Development as well as i am a competitive programmer having good problem solving skills. And currently exploring BLockchain Development.</h3>
+<h3 align="left">* 👨‍🎓️ Undergraduate Indian Institute of Information Technology, Surat(3rd Year).</h3>
 <br>
 <hr>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=qazwsxedcrfv12" alt="qazwsxedcrfv12" /></a> </p>
 <br><br>
 
-<img align="right" alt="Coding" width="400" src="https://is.gd/UOYhyQ">
+<img align="right" alt="Coding" width="380" src="https://is.gd/dv4dk9">
 
 <hr>
 
