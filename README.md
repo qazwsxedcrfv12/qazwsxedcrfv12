@@ -8,7 +8,14 @@
 * 📂️ Front-End Developer | Competitive Programmer | Blockchain Developer
 
 
-<div style="border="2px solid red"; text-align="center">
+<div id="con">
   <a href="https://www.linkedin.com/in/abhishek-kumar-426694190/">Linkedin</a>
   <i class="fab fa-linkedin"></i>
 </div>
+
+<style>
+  .con{
+     border="2px soild red";
+     text-align="center";
+ }
+</style>
