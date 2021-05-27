@@ -1,9 +1,8 @@
 <h2 align="left">Hi 👋, I'm Abhishek Kumar</h2>
 <h3 align="left">💻️  Tech enthusiastic and motivated developer having good knowledge proficiency in Front-End Development as well as i am a competitive programmer having good problem solving skills. And currently exploring BLockchain Development.</h3>
 <h3 align="left">* 👨‍🎓️ Undergraduate Indian Institute of Information Technology, Surat(3rd Year).</h3>
-<br>
-<hr>
 
+<hr>
 <img align="right" alt="Coding" width="400" src="https://is.gd/m3FRSs">
 
 - ⚡ Fun fact **I think i m funny xxd huehuehue.**
