@@ -9,12 +9,16 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/abhishek-kumar-426694190/" target="blank"><img align="center" src="https://is.gd/8trk9E" alt="https://www.linkedin.com/in/abhishek-kumar-426694190/" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/11277894/abhishek-kumar" target="blank"><img align="center" src="https://is.gd/6n9rUp" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/lonewolf0987" target="blank"><img align="center" src="https://is.gd/0BLsLV" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/qazwsxedcrfv12" target="blank"><img align="center" src="https://is.gd/Dm9KVm" alt="" height="40" width="40" /></a>  
-</p>
+<table style="border:2px solid green; backdround-color🟡">
+   <thead>
+       <th>    <a href="https://www.linkedin.com/in/abhishek-kumar-426694190/" target="blank"><img align="center" src="https://is.gd/8trk9E" alt="https://www.linkedin.com/in/abhishek-kumar-426694190/" height="40" width="40" /></th>
+       <th> <a href="https://stackoverflow.com/users/11277894/abhishek-kumar" target="blank"><img align="center" src="https://is.gd/6n9rUp" height="40" width="40" /></a>
+       <th> <a href="https://www.hackerrank.com/lonewolf0987" target="blank"><img align="center" src="https://is.gd/0BLsLV" alt="" height="40" width="40" /></a>
+       <th><a href="https://github.com/qazwsxedcrfv12" target="blank"><img align="center" src="https://is.gd/Dm9KVm" alt="" height="40" width="40" /></a>  
+    </thead>
+<table>
+
+
 <b><hr></b>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,7 +27,6 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qazwsxedcrfv12&show_icons=true&locale=en" alt="qazwsxedcrfv12" /></p>
-
 
 
 
