@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=qazwsxedcrfv12" alt="qazwsxedcrfv12" /></a> </p>
 <br>
 
-<img align="right" alt="Coding" width="440" src="https://is.gd/UOYhyQ">
+<img align="right" alt="Coding" width="400" src="https://is.gd/m3FRSs">
 
 <hr>
 
