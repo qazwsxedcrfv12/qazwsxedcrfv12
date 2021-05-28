@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think i m funny xxd huehuehue.**
 
-- I write articles on &nbsp;&nbsp;<a href="https://www.blogger.com/blog/posts/2359693828480060977?hl=en&tab=jj"><img src="https://is.gd/tRGrAH" alt="Bloggers" width="40" height="40"></a>
+- I write blogs on &nbsp;&nbsp;<a href="https://www.blogger.com/blog/posts/2359693828480060977?hl=en&tab=jj" target="_blank"><img src="https://is.gd/tRGrAH" alt="Bloggers" width="40" height="40"></a>
 
 
 <h3 align="left">Connect with me:</h3>
