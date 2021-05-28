@@ -3,13 +3,13 @@
 <h3 align="left">* 👨‍🎓️ Undergraduate Indian Institute of Information Technology, Surat(3rd Year).</h3>
 
 <hr>
-<img align="right" alt="Coding" width="400" src="https://is.gd/m3FRSs">
+<img align="right" alt="Coding" width="420" src="https://is.gd/nLsMLg">
 
 - ⚡ Fun fact **I think i m funny xxd huehuehue.**
 
 
 <h3 align="left">Connect with me:</h3>
-<table style="border:2px solid green; backdround-color🟡">
+<table border="2px">
    <thead>
        <th>    <a href="https://www.linkedin.com/in/abhishek-kumar-426694190/" target="blank"><img align="center" src="https://is.gd/8trk9E" alt="https://www.linkedin.com/in/abhishek-kumar-426694190/" height="40" width="40" /></th>
        <th> <a href="https://stackoverflow.com/users/11277894/abhishek-kumar" target="blank"><img align="center" src="https://is.gd/6n9rUp" height="40" width="40" /></a>
