@@ -5,7 +5,7 @@
 <h3 align="left">👨‍🎓️ Undergraduate Indian Institute of Information Technology, Surat(3rd Year).</h3>
 
 <hr>
-<img align="right" alt="Coding" width="420" src="https://is.gd/nLsMLg">
+<img align="right" alt="Coding" width="440" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - ⚡ Fun fact **I think i m funny xxd huehuehue.**
 
