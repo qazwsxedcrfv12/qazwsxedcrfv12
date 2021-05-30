@@ -1,8 +1,8 @@
 ![code](https://user-images.githubusercontent.com/47034350/120102130-33d01800-c167-11eb-8807-06e071c07798.jpg)
 
 <h2 align="left">Hi 👋, I'm Abhishek Kumar</h2>
-<h3 align="left">💻️  Tech enthusiastic and motivated developer having good knowledge proficiency in Front-End Development as well as i am a competitive programmer having good problem solving skills. And currently exploring BLockchain Development.</h3>
-<h3 align="left">👨‍🎓️ Undergraduate Indian Institute of Information Technology, Surat(3rd Year).</h3>
+<h3 align="center">💻️  Just a Developer and competitive programmer with good problem solving skills but keeps googling.</h3>
+<h3 align="center"> Binary Search is most superb algo ever made</h3>
 
 <hr>
 <img align="right" alt="Coding" width="440" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
