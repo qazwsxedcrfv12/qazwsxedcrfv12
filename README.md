@@ -5,7 +5,7 @@
 <hr>
 <img align="right" alt="Coding" width="440" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- ⚡ Fun fact **I think i m funny xxd huehuehue.**
+- ⚡ Fun fact **I think i m funny xxd huehuehue. 🐶️**
 
 - I write blogs on &nbsp;&nbsp;<a href="https://abhilifesenerio.blogspot.com/" target="_blank"><img src="https://is.gd/tRGrAH" alt="Bloggers" width="40" height="40"></a>
 
