@@ -32,6 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qazwsxedcrfv12&show_icons=true&locale=en" alt="qazwsxedcrfv12" /></p>
 
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazwsxedcrfv12&show_icons=true&locale=en&layout=compact" alt="abhi-hash256" /></p>
 
 
 
